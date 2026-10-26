@@ -1,3 +1,3 @@
 $PSVersionTable
-Get-ExecutionPolicy
+Get-Executionpolicy
 systeminfo
